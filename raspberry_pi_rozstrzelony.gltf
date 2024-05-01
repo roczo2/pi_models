@@ -357,9 +357,429 @@
 						"node":0,
 						"path":"scale"
 					}
+				},
+				{
+					"sampler":3,
+					"target":{
+						"node":1,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":4,
+					"target":{
+						"node":1,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":5,
+					"target":{
+						"node":1,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":6,
+					"target":{
+						"node":2,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":7,
+					"target":{
+						"node":2,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":8,
+					"target":{
+						"node":2,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":9,
+					"target":{
+						"node":3,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":10,
+					"target":{
+						"node":3,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":11,
+					"target":{
+						"node":3,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":12,
+					"target":{
+						"node":4,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":13,
+					"target":{
+						"node":4,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":14,
+					"target":{
+						"node":4,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":15,
+					"target":{
+						"node":5,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":16,
+					"target":{
+						"node":5,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":17,
+					"target":{
+						"node":5,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":18,
+					"target":{
+						"node":6,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":19,
+					"target":{
+						"node":6,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":20,
+					"target":{
+						"node":6,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":21,
+					"target":{
+						"node":7,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":22,
+					"target":{
+						"node":7,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":23,
+					"target":{
+						"node":7,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":24,
+					"target":{
+						"node":8,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":25,
+					"target":{
+						"node":8,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":26,
+					"target":{
+						"node":8,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":27,
+					"target":{
+						"node":9,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":28,
+					"target":{
+						"node":9,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":29,
+					"target":{
+						"node":9,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":30,
+					"target":{
+						"node":10,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":31,
+					"target":{
+						"node":10,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":32,
+					"target":{
+						"node":10,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":33,
+					"target":{
+						"node":11,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":34,
+					"target":{
+						"node":11,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":35,
+					"target":{
+						"node":11,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":36,
+					"target":{
+						"node":12,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":37,
+					"target":{
+						"node":12,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":38,
+					"target":{
+						"node":12,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":39,
+					"target":{
+						"node":13,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":40,
+					"target":{
+						"node":13,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":41,
+					"target":{
+						"node":13,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":42,
+					"target":{
+						"node":14,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":43,
+					"target":{
+						"node":14,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":44,
+					"target":{
+						"node":14,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":45,
+					"target":{
+						"node":15,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":46,
+					"target":{
+						"node":15,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":47,
+					"target":{
+						"node":15,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":48,
+					"target":{
+						"node":16,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":49,
+					"target":{
+						"node":16,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":50,
+					"target":{
+						"node":16,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":51,
+					"target":{
+						"node":17,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":52,
+					"target":{
+						"node":17,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":53,
+					"target":{
+						"node":17,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":54,
+					"target":{
+						"node":18,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":55,
+					"target":{
+						"node":18,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":56,
+					"target":{
+						"node":18,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":57,
+					"target":{
+						"node":19,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":58,
+					"target":{
+						"node":19,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":59,
+					"target":{
+						"node":19,
+						"path":"scale"
+					}
+				},
+				{
+					"sampler":60,
+					"target":{
+						"node":20,
+						"path":"translation"
+					}
+				},
+				{
+					"sampler":61,
+					"target":{
+						"node":20,
+						"path":"rotation"
+					}
+				},
+				{
+					"sampler":62,
+					"target":{
+						"node":20,
+						"path":"scale"
+					}
 				}
 			],
-			"name":"Plytka_drukowanaAction",
+			"name":"Animation",
 			"samplers":[
 				{
 					"input":136,
@@ -375,35 +795,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":140
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":1,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":1,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":1,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"USB2.0Action",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -418,35 +810,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":143
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":2,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":2,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":2,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Kondensator_odsprzegajacyAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -461,35 +825,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":146
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":3,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":3,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":3,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Kontroler_USBAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -504,35 +840,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":149
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":4,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":4,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":4,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Kontroler_gigabitAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -547,35 +855,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":152
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":5,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":5,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":5,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Piny_PoEAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -590,35 +870,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":155
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":6,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":6,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":6,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"DRAMAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -633,35 +885,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":158
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":7,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":7,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":7,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Piny_GPIO_U2C_SPI_UARTAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -676,35 +900,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":161
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":8,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":8,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":8,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Wi-Fi_BluetoothAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -719,35 +915,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":164
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":9,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":9,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":9,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"GPU_CPUAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -762,35 +930,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":167
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":10,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":10,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":10,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Audio_VideoAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -805,35 +945,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":170
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":11,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":11,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":11,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"HDMI0Action",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -848,35 +960,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":173
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":12,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":12,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":12,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Interfejs_obrazuAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -891,35 +975,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":176
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":13,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":13,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":13,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Diody_statusuAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -934,35 +990,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":179
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":14,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":14,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":14,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"AntenaAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -977,35 +1005,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":182
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":15,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":15,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":15,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"USB-CAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -1020,35 +1020,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":185
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":16,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":16,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":16,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"SD_CardAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -1063,35 +1035,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":188
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":17,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":17,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":17,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"EthernetAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -1106,35 +1050,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":191
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":18,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":18,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":18,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"Interfejs_kameryAction",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -1149,35 +1065,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":194
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":19,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":19,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":19,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"HDMI1Action",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -1192,35 +1080,7 @@
 					"input":138,
 					"interpolation":"STEP",
 					"output":197
-				}
-			]
-		},
-		{
-			"channels":[
-				{
-					"sampler":0,
-					"target":{
-						"node":20,
-						"path":"translation"
-					}
 				},
-				{
-					"sampler":1,
-					"target":{
-						"node":20,
-						"path":"rotation"
-					}
-				},
-				{
-					"sampler":2,
-					"target":{
-						"node":20,
-						"path":"scale"
-					}
-				}
-			],
-			"name":"USB3.0Action",
-			"samplers":[
 				{
 					"input":136,
 					"interpolation":"LINEAR",
@@ -2991,10 +2851,10 @@
 			"componentType":5126,
 			"count":80,
 			"max":[
-				3.3333333333333335
+				3.2916666666666665
 			],
 			"min":[
-				0.041666666666666664
+				0
 			],
 			"type":"SCALAR"
 		},
@@ -3009,10 +2869,10 @@
 			"componentType":5126,
 			"count":2,
 			"max":[
-				3.3333333333333335
+				3.2916666666666665
 			],
 			"min":[
-				0.041666666666666664
+				0
 			],
 			"type":"SCALAR"
 		},
