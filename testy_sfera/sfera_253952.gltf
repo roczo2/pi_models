@@ -37,67 +37,67 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":1984,
+			"count":507900,
 			"max":[
-				0.9999997019767761,
-				1,
-				0.9999993443489075
+				0.9872310161590576,
+				0.9975767135620117,
+				0.9872307181358337
 			],
 			"min":[
-				-0.9999990463256836,
-				-1,
-				-1
+				-0.9872305393218994,
+				-0.9975767135620117,
+				-0.9872310161590576
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":1984,
+			"count":507900,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":1984,
+			"count":507900,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
-			"componentType":5123,
-			"count":2880,
+			"componentType":5125,
+			"count":761856,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":23808,
+			"byteLength":6094800,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":23808,
-			"byteOffset":23808,
+			"byteLength":6094800,
+			"byteOffset":6094800,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":15872,
-			"byteOffset":47616,
+			"byteLength":4063200,
+			"byteOffset":12189600,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":5760,
-			"byteOffset":63488,
+			"byteLength":3047424,
+			"byteOffset":16252800,
 			"target":34963
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":69248,
+			"byteLength":19300224,
 			"uri":"sfera_253952.bin"
 		}
 	]
